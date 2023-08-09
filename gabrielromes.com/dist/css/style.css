@@ -1008,6 +1008,12 @@ section .info p.promo-img-medium {
     vertical-align: top;
     transition: all 0.2s ease-in-out;
 }
+
+#logo {
+    font-size: 24px;
+    font-weight: 800px;
+}
+
 .promo-img.shadow img {
     box-shadow: 0 0.15em 0.5em 0 rgba(0, 0, 0, 0.1);
 }
@@ -1983,7 +1989,7 @@ box-shadow: 0 0 0 0.5px rgba(0, 0, 0, .03), 0 1px 2px rgba(0, 0, 0, .05), 0 2px 
     }
 }
 .about-nav-active .about-nav-link a {
-    font-weight: 600;!important
+    font-weight: 600;
 }
 .romesjobs-nav-active .romesjobs-nav-link a {
     font-weight: 600;
