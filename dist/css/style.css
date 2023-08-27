@@ -1,3 +1,5 @@
+
+
 @font-face {
   font-family: Pangea Trial;
   src: url(../fonts/PangeaTrial-LightWeb.woff2) format("woff2");
@@ -493,7 +495,7 @@ a {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.6;
-    color: ##000000;
+    color: #000000;
     margin-bottom: 20px;
     transition: 0.3s;
 }
@@ -502,7 +504,7 @@ p {
     font-size: 22px;
     font-weight: 200;
     line-height: 1.4;
-    color: ##000000;
+    color: #000000;
     margin-bottom: 20px;
     transition: 0.3s;
 }
